@@ -1,0 +1,106 @@
+*{
+    background-color: chartreuse;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#test{
+    color: blueviolet;
+}
+
+h1{
+    color: blue;
+}
+
+.test{
+    color: brown;
+}
+
+nav{
+    margin-left: 60%;
+}
+
+nav a{
+    font-size: x-large;
+    text-decoration: none;
+    color: tomato;
+    margin: 10px;
+}
+
+nav a:hover{
+    color: green;
+}
+
+h2{
+    margin-left: 79px;
+    color: cadetblue;
+    text-decoration: underline;
+}
+
+#home img{
+    border-radius: 49px;
+    width: 20%;
+}
+
+#home{
+    text-align: center;
+}
+
+/* display: block
+margin-left : auto
+margin-right : auto */
+
+p{
+    
+    text-align: justify;
+    width: 530px;
+    display: inline-block;
+    line-height: 41px;
+    margin-left: 142px;
+    font-size: 18px;
+}
+
+table,th,td{
+    border: 1px solid blue;
+}
+
+table{
+    width: 70%;
+    margin: auto;
+}
+
+form{
+    width: 482px;
+    margin: auto;
+}
+
+form input{
+    margin-bottom: 20px;
+    margin-left: 100px;
+}
+
+#yassine{
+    margin-left: 75px;
+}
+
+label{
+    color: firebrick;
+    font-size: 19px;
+}
+
+button{
+    width: 323px;
+    border-radius: 50px;
+    color: green;
+    font-size: 69px;
+    border-color: green;
+    background-color: yellow;
+}
+
+button:hover{
+    background-color: red;
+}
+
+footer{
+    text-align: center;
+    font-size: 160px;
+}
